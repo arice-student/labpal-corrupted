@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4c96070-860e-4f4c-ba55-0ee6adbbd225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/placeholder.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/placeholder.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/placeholder.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/placeholder.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeLog.md" beforeDir="false" afterPath="$PROJECT_DIR$/TimeLog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeeklyReflection.md" beforeDir="false" afterPath="$PROJECT_DIR$/WeeklyReflection.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.17" />
@@ -47,19 +45,6 @@
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,7 +56,8 @@
       <workItem from="1611181611734" duration="558000" />
       <workItem from="1611340955859" duration="5228000" />
       <workItem from="1611416279032" duration="709000" />
-      <workItem from="1611420064161" duration="864000" />
+      <workItem from="1611420064161" duration="1362000" />
+      <workItem from="1612020401309" duration="1330000" />
     </task>
     <servers />
   </component>
