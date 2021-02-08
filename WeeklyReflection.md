@@ -49,3 +49,16 @@ When looking things up, I found a LinkIn Learning course called 'Learning JavaFX
 
 ### Week 3
 
+Learned about log4j and JUnit this week.  Additionally, worked on the Exercise 3 code challenge, which took a lot longer than I had expected.
+
+*Links Used for the Exercise*
+* https://stackoverflow.com/questions/10531513/how-to-identify-object-types-in-java
+* https://blog.jetbrains.com/idea/2012/03/custom-code-folding-regions-in-intellij-idea-111/
+* https://howtodoinjava.com/log4j/logging-levels-in-log4j/
+* https://howtodoinjava.com/junit5/expected-exception-example/
+
+*Links From the Exercise 2 Solution Video*
+* https://datatables.net/
+* https://code.jquery.com/
+
+

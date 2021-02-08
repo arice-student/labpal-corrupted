@@ -14,6 +14,8 @@ For projects managers, this application will allow them to manage their projects
 
 For analysts, this application will allow them to see their worklist with regards to previous, current and upcoming work.  Additionally, they will be able to query to see which test methods they are trained on.
 
+---
+
 ## TODO - Complete the Sections Below (23-Jan-2021)
 
 ### Project Technologies/Techniques
