@@ -17,5 +17,5 @@
 - [x] Completed User Stories
 - [x] Created an MVP (Minimum Viable Product)
 - [x] Created a Project Plan
-- [ ] Created a Screen Design
+- [x] Created a Screen Design
 - [ ] Created a Reflection Statement

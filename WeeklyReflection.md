@@ -64,3 +64,8 @@ Learned about log4j and JUnit this week.  Additionally, worked on the Exercise 3
 ### Week 4
 
 **Professional Development Update**: For the Professional Development, instead of doing a tech topic on JavaFX, I might instead look into Hiberate Search or Hibernate Validator since they may both be needed for the Individual project.
+
+**Individual Project, Check Point #1, Reflection Statement**
+
+- I believe I just finished all the necessary steps for this first check point.  However, to get the application where I want it, I will definitely need to create a lot more wire frames.  In the meantime, there's enough to build the basic framework of the site.
+- The issue that I am having is figuring out to design the Project Management web page.  Every time I think I have a solution, I realize that I have no idea how to implement it.  So this will likely require a lot of trial-and-error.
