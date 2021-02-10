@@ -8,4 +8,6 @@
 | 02-Feb-21| Spent 15 minute here and there completing the Week 3 videos and initial setup of Exercise 3.|3||
 | 05-Feb-21| Spent 3 hours alone just trying to troubleshoot the analyze method of Exercise 3|3||
 | 07-Feb-21| Finished Exercise 3, watched the Exercise 2 Solution Video, tried to get the exercise 2 solution from the video to work, to no avail.|4||
+| 08-Feb-21| Began working on the Individual Project Check Point.|2||
+| 09-Feb-21| Learned about DAO and Hibernate from class readings and exercises.  Also, created wireframes using Balsamiq.|3||
 Note: A weekly reflection file will also be used in cases where the time log is not sufficient for explaining the tasks that were performed.

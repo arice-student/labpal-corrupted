@@ -61,4 +61,6 @@ Learned about log4j and JUnit this week.  Additionally, worked on the Exercise 3
 * https://datatables.net/
 * https://code.jquery.com/
 
+### Week 4
 
+**Professional Development Update**: For the Professional Development, instead of doing a tech topic on JavaFX, I might instead look into Hiberate Search or Hibernate Validator since they may both be needed for the Individual project.
