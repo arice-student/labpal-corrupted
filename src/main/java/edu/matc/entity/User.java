@@ -17,6 +17,12 @@ import java.util.Set;
 @Entity(name = "User")
 @Table(name = "user")
 public class User {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO, generator = "native")
+    @GenericGenerator(name = "native", strategy = "native")
+    private int id;
+
     @Column(name = "first_name")
     private String firstName;
 
@@ -26,10 +32,8 @@ public class User {
     @Column(name = "user_name")
     private String userName;
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.AUTO, generator = "native")
-    @GenericGenerator(name = "native", strategy = "native")
-    private int id;
+    @Column(name = "password")
+    private String password;
 
     @Column(name = "date_of_birth")
     private LocalDate dateOfBirth;
@@ -154,6 +158,24 @@ public class User {
     public int getAge() {
 
         return (int)ChronoUnit.YEARS.between(dateOfBirth, LocalDate.now());
+    }
+
+    /**
+     * Gets password.
+     *
+     * @return the password
+     */
+    public String getPassword() {
+        return password;
+    }
+
+    /**
+     * Sets password.
+     *
+     * @param password the password
+     */
+    public void setPassword(String password) {
+        this.password = password;
     }
 
     @Override
