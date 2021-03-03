@@ -10,18 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4c96070-860e-4f4c-ba55-0ee6adbbd225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/${filename}/sampleTestTrackerLog.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userdisplayexercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sampleTestTracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sampleTestTracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignDocuments/DatabaseDiagram.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/mysqldump.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1f1cbf09-cdb8-493d-9e11-46e513a943fa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1f1cbf09-cdb8-493d-9e11-46e513a943fa.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/sampleTestTrackerLog.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sampleTestTrackerLog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Lab Pal.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Lab Pal.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.matc.entity.UserTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.matc.entity.UserTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.matc.entity.UserTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.matc.entity.UserTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignDocuments/LabPal_Database_Diagram.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +79,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DesignDocuments" />
       <recent name="$PROJECT_DIR$/DesignDocuments/wireframes" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -329,7 +323,7 @@
       <workItem from="1614565915902" duration="1429000" />
       <workItem from="1614740034510" duration="4029000" />
       <workItem from="1614744176399" duration="966000" />
-      <workItem from="1614747300068" duration="4046000" />
+      <workItem from="1614747300068" duration="4883000" />
     </task>
     <servers />
   </component>
