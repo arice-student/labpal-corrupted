@@ -1,9 +1,0 @@
-[ERROR] 2021-03-02 21:43:17.794 [main] Database - java.sql.SQLSyntaxErrorException: Table 'test_labpal.user' doesn't exist
-[ERROR] 2021-03-02 21:43:20.408 [main] Database - java.sql.SQLSyntaxErrorException: Table 'test_labpal.user' doesn't exist
-[DEBUG] 2021-03-02 21:43:20.411 [main] GenericDao - Searching for edu.matc.entity.User with Curry = Curry
-[ERROR] 2021-03-02 21:43:20.674 [main] Database - java.sql.SQLSyntaxErrorException: Table 'test_labpal.user' doesn't exist
-[DEBUG] 2021-03-02 21:43:20.675 [main] GenericDao - Searching for edu.matc.entity.User with lastName = c
-[ERROR] 2021-03-02 21:43:20.760 [main] Database - java.sql.SQLSyntaxErrorException: Table 'test_labpal.user' doesn't exist
-[ERROR] 2021-03-02 21:43:20.823 [main] Database - java.sql.SQLSyntaxErrorException: Table 'test_labpal.user' doesn't exist
-[ERROR] 2021-03-02 21:43:20.884 [main] Database - java.sql.SQLSyntaxErrorException: Table 'test_labpal.user' doesn't exist
-[ERROR] 2021-03-02 21:43:20.944 [main] Database - java.sql.SQLSyntaxErrorException: Table 'test_labpal.user' doesn't exist

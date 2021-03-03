@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.matc.entjava.labpal</groupId>
-  <artifactId>LabPal</artifactId>
+  <artifactId>labpal</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>LabPal Maven Webapp</name>
+  <name>labpal Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -113,10 +113,19 @@
       <artifactId>hibernate-c3p0</artifactId>
       <version>5.4.4.Final</version>
     </dependency>
+
+<!--    &lt;!&ndash; Added after receiving a java.lang.NoClassDefFoundError: org/jboss/logging/Logger msg &ndash;&gt;-->
+<!--    <dependency>-->
+<!--      <groupId>org.jboss.logging</groupId>-->
+<!--      <artifactId>jboss-logging</artifactId>-->
+<!--      <version>3.4.0.Final</version>-->
+<!--    </dependency>-->
+
+
   </dependencies>
 
   <build>
-    <finalName>Lab Pal</finalName>
+    <finalName>Week 2 Exercise</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
